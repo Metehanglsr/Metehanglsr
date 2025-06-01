@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Metehan GÜLŞER</h1>
-<h3 align="center">.NET Developer | Clean Architecture Enthusiast | Backend & Real-Time Systems Explorer</h3>
+<h3 align="center"> Computer Engineer | Backend Developer | .NET Developer </h3>
 
 - 🔭 I’m currently working on [e-commerce-clean-architecture](https://github.com/Metehanglsr/ecommerce-clean-architecture)
 
